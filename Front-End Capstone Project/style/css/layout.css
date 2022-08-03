@@ -1,0 +1,14 @@
+*,*::after,*::before{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+:root{
+    --primary: #6C5DD3;
+    --white: #FFFFFF;
+    --grey-2: #E1E1E1;
+    --dark-purple: #11142D;
+    --grey-1: #AAAAAA;
+    --grey-3: #F0F0F0;
+    --primary-soft: #F0EEFF;
+}
